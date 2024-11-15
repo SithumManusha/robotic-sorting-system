@@ -1,0 +1,11 @@
+# Arduino / C++ ignores
+*.hex
+*.elf
+*.bin
+build/
+.vscode/
+.idea/
+*.docx
+*.zip
+Thumbs.db
+Desktop.ini
